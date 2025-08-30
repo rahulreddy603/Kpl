@@ -466,7 +466,7 @@ const CricketTournamentApp = () => {
           <div className="text-center">
             <Trophy className="w-8 h-8 mx-auto mb-2" />
             <h1 className="text-2xl font-bold">Cricket Tournament</h1>
-            <p className="text-sm opacity-90">6-Over Championship 2025</p>
+            <p className="text-sm opacity-90">🏏✨ कल्पवृक्ष गणेश मंडळ    अंडरआर्म क्रिकेट स्पर्धा – २०२५ ✨🏏</p>
           </div>
         </div>
 
